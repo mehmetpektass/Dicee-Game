@@ -9,8 +9,8 @@ Allows users to refresh the page and play again.
 
 TECHNOLOGIES USED:
 
-HTML
-CSS (Bootstrap)
+HTML-
+CSS (Bootstrap)-
 JavaScript
 
 INSTRODUCTION:
